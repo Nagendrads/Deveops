@@ -2,3 +2,4 @@ welcome to devops
 tools covered
 -linux
 -git
+-ansible
